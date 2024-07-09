@@ -74,8 +74,6 @@ public class BankAccountUsingLoops {
 		          System.out.println("Please try again");
 		      }
 		    }
-		    while(n!=0);
-		  
+		    while(n!=0);  
 	}
-
 }
